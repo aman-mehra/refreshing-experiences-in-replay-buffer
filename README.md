@@ -43,7 +43,7 @@ The video below shows an episodic histogram of the exploration of the state spac
 
 This indicates that the notion of the learning should be disentangled into two salient components - 
 1. An agent should be driven to explore novel state space regions. This is covered by curiosity driven exploration.
-2. Having explored some region, the agent should be able to quickly navigate (shortest path) to its known horizon of knowledge within the state space. This something that needs further work.
+2. Having explored some region, the agent should be able to quickly navigate (shortest path) to its known horizon of knowledge within the state space. This is something that needs further work.
 
 As a result, the goal of an agent shouldn’t simply be to reach the goal as quickly as possible but reach any position within its known navigable regions quickly. This ability coupled with curiosity should allow an agent to discover paths leading to its final goal quickly and efficiently.
 
